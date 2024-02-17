@@ -1,8 +1,11 @@
-## Overview
+## Repo Overview
 
 Audio Text contains the text file with their output.
 Text to speech is the Google Collab link where I have practically implemented all the researched models
 The video link is provided in the Video_link file in the drive link.
+
+## Overview of the models
+
 Bark is a transformer-based text-to-speech (TTS) model developed by Suno AI under the suno-ai/bark project. It aims to convert text input into natural-sounding speech output. Bark comprises several primary models designed to handle different aspects of the TTS process, ensuring accurate representation and synthesis of human speech.
 
 ## Components
